@@ -78,7 +78,7 @@
         
         width: 90%;
         height: 90vh;
-        background-image: url(/images/Missing_div.jpg);
+        background-image: url(../images/Missing_div.jpg);
         background-size: contain;
         background-position: center;
         @include flex_center;
@@ -303,7 +303,7 @@
 
         .flip-card-front-one {
             @include card_front;
-            background-image: url(/images/drums_iwo.jpg);
+            background-image: url(../images/drums_iwo.jpg);
             
 
 
@@ -314,20 +314,20 @@
         .flip-card-front-two {
             
             @include card_front;
-            background-image: url(/images/guitar_iwo.jpg);
+            background-image: url(../images/guitar_iwo.jpg);
             
         }
 
         .flip-card-front-three {
             @include card_front;
-            background-image: url(/images/piano_iwo.jpg);
+            background-image: url(../images/piano_iwo.jpg);
             
         }
 
         .flip-card-front-four {
             @include card_front;
 
-            background-image: url(/images/bass_iwo.jpg);
+            background-image: url(../images/bass_iwo.jpg);
             
         }
 
@@ -570,7 +570,7 @@
 
 
   .one {
-    background-image: url(/images/hut_one.png);
+    background-image: url(../images/hut_one.png);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
@@ -578,7 +578,7 @@
 
 
 .two {
-    background-image: url(/images/hut_two.png);
+    background-image: url(../images/hut_two.png);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
@@ -586,21 +586,21 @@
 
 
 .three {
-    background-image: url(/images/m_t.png);
+    background-image: url(../images/m_t.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
 }
 
 .four {
-    background-image: url(/images/baby.png);
+    background-image: url(../images/baby.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
 }
 
 .five {
-    background-image: url(/images/w_t.png);
+    background-image: url(../images/w_t.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;

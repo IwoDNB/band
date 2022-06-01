@@ -15,10 +15,7 @@
     "deploy": "run-s build publish",
     "publish": "gh-pages -d dist"
   },
-  "keywords": [
-    "html",
-    "css"
-  ],
+
   "author": "Fahim",
   "license": "ISC",
   "devDependencies": {

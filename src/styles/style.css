@@ -1326,9 +1326,10 @@
     width: 100%;
     height: 30vh;
     background-image: url(/images/Missing_div.jpg);
-    background-size: contain;
+    background-size: cover;
     display: flex;
     justify-content: center;
+    align-items: center;
     background-repeat: no-repeat;
     flex-direction: column;
   }
